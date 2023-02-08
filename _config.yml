@@ -6,7 +6,7 @@ texture:
   showNav: true
   navigation: 
   title: Home
-  url: /index.html
+  url: /index
 
 plugins:
 - jekyll-remote-theme

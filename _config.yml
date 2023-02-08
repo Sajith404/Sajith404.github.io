@@ -1,4 +1,13 @@
 remote_theme: samarsault/texture
+texture:
+  title: Sajith Mohan Nair
+  tagline: Developer. Designer
+  style: blue
+  showNav: true
+  navigation: 
+  title: Home
+  url: /index.html
+
 plugins:
 - jekyll-remote-theme
-title: Nairtek
+

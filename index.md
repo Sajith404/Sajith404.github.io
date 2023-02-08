@@ -1,5 +1,5 @@
 ---
-layout: Home
+layout: Page
 title:  "Nairtek"
 date:   2023-02-08 13:22:36 +0530
 ---

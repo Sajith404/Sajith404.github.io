@@ -1,33 +1,24 @@
 ---
-layout: post
+layout: Home
 title:  "Nairtek"
-date:   2021-05-24 21:03:36 +0530
+date:   2023-02-08 13:22:36 +0530
 ---
-### [Politeness Theory](https://en.wikipedia.org/wiki/Politeness_theory#Politeness_strategies)
-Concept of Face in Politeness:
+Test Site
 
-The wish of every member of a community to guard his or her face from possible damage through social interferences 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Et malesuada fames ac turpis. Neque laoreet suspendisse interdum consectetur libero id faucibus nisl. Sit amet porttitor eget dolor morbi non arcu risus. Sed lectus vestibulum mattis ullamcorper velit sed ullamcorper. Et molestie ac feugiat sed lectus vestibulum. In eu mi bibendum neque egestas. Sollicitudin nibh sit amet commodo nulla facilisi nullam vehicula ipsum. Amet justo donec enim diam. Massa ultricies mi quis hendrerit dolor. Porta non pulvinar neque laoreet suspendisse interdum. Aenean pharetra magna ac placerat vestibulum lectus mauris ultrices eros. Nulla facilisi morbi tempus iaculis urna. Vitae turpis massa sed elementum tempus egestas sed sed. Ornare massa eget egestas purus viverra accumsan.
 
-- Positive face: the wish or desire to gain approval of others.
-- Negative face: the wish to be unimpeded by others in one’s actions.
+## Test1
 
-Politeness Strategies:
+Et tortor consequat id porta nibh venenatis. Nunc vel risus commodo viverra maecenas accumsan. Sit amet purus gravida quis blandit turpis cursus in. Et leo duis ut diam quam nulla porttitor massa. Elementum sagittis vitae et leo duis. Laoreet non curabitur gravida arcu ac tortor dignissim convallis aenean. Mauris in aliquam sem fringilla ut morbi. Duis convallis convallis tellus id interdum velit laoreet. Quis imperdiet massa tincidunt nunc pulvinar sapien. Sagittis vitae et leo duis ut diam quam nulla porttitor. Quis viverra nibh cras pulvinar mattis nunc sed blandit libero. Nec dui nunc mattis enim ut tellus elementum sagittis vitae. Dictum non consectetur a erat nam at lectus urna duis. Velit sed ullamcorper morbi tincidunt ornare massa. Interdum posuere lorem ipsum dolor sit. Ac tincidunt vitae semper quis lectus. Dui accumsan sit amet nulla facilisi morbi. Gravida arcu ac tortor dignissim convallis aenean et tortor at. Aliquet porttitor lacus luctus accumsan tortor posuere ac ut consequat. Justo laoreet sit amet cursus sit amet dictum sit.
 
-- Positive Politeness -  minimize the threat to the hearer's positive face (where audience knows each other fairly well)
-    - You look sad. Can I do anything?
-    - Offer or promise (If you wash the dishes, I'll vacuum the floor.)
-- Negative Politeness - minimize threar to hearer's negative face
-    - Apologetic
-    - Pessimistic
-- Bald-on record - direct speech like giving advice, used when close relationship between speaker and hearer
-    - Your headlights are on!
-    - Leave it, I'll clean up later.
+### Test2
 
-- Off-record (indirect) - speaker tries to speak in a way to not impose on the hearer or gives a better chance for the hearer to be helpful and generous
+Interdum posuere lorem ipsum dolor sit amet consectetur. Quam lacus suspendisse faucibus interdum. Molestie a iaculis at erat pellentesque. Amet nulla facilisi morbi tempus iaculis urna id. Egestas diam in arcu cursus euismod quis viverra nibh. Blandit libero volutpat sed cras ornare arcu. In fermentum posuere urna nec tincidunt. Nibh tellus molestie nunc non blandit massa enim nec dui. Est ullamcorper eget nulla facilisi etiam dignissim diam quis. Amet nisl suscipit adipiscing bibendum est ultricies integer quis.
 
-Examples: 
-(Im): Grab the chair for the speaker
-(Po): Do you have a free chair over there?
+Eu non diam phasellus vestibulum. Enim sit amet venenatis urna cursus. Eget arcu dictum varius duis at consectetur lorem donec massa. Enim sed faucibus turpis in. Purus gravida quis blandit turpis. Consequat semper viverra nam libero justo. Adipiscing enim eu turpis egestas pretium. Nibh praesent tristique magna sit amet. Faucibus et molestie ac feugiat sed lectus vestibulum mattis ullamcorper. Netus et malesuada fames ac turpis. Scelerisque purus semper eget duis at tellus at urna condimentum. Tempor commodo ullamcorper a lacus vestibulum sed arcu non odio. Justo nec ultrices dui sapien. Eget nunc lobortis mattis aliquam faucibus purus in.
 
-(Im) Can you lend me a thousand dollars?
-(Po) I'm sorry; it's a lot to ask, but can you lend me a thousand dollars?
+- Eu non diam phasellus vestibulum.
+- Eu non diam phasellus vestibulum.
+- Eu non diam phasellus vestibulum.
+- Eu non diam phasellus vestibulum.
+- Eu non diam phasellus vestibulum.
